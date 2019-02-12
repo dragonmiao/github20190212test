@@ -10,8 +10,6 @@ public class test1 {
 		System.out.println("类文件会不会变化呢！");
 		//现在要进行对比
 		System.out.println("进行compare with》git index对比");
-		
-		System.out.println("第三次对比");
 	}
 
 }
