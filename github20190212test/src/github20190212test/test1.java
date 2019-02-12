@@ -12,6 +12,8 @@ public class test1 {
 		System.out.println("进行compare with》git index对比");
 		
 		System.out.println("第三次对比");
+		
+		System.out.println("copy all from right to left!");
 	}
 
 }
